@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.svg" alt="Miraj Jamal Sidik logo" width="100%" />
+  <img src="logo.svg" alt="logo" width="100%" />
 </p>
 
 # Hi there, I'm Miraj 👋
