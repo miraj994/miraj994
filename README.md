@@ -7,7 +7,7 @@
 **Informatics student · Full-stack & desktop developer**
 
 I'm a 5th-semester Informatics student at **Langlangbuana University**, based in **Cimahi, West Java, Indonesia**.
-I enjoy turning ideas into working applications, from web apps and REST APIs to desktop software and small IoT projects.
+I enjoy turning ideas into working applications, from web apps and REST APIs to desktop software.
 
 ---
 
