@@ -83,9 +83,12 @@ I enjoy turning ideas into working applications, from web apps and REST APIs to 
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=miraj994&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraj994&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=miraj994&theme=tokyonight&hide_border=true&background=0D1117" alt="Miraj Jamal SIidk GitHub Streak" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=miraj994&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
